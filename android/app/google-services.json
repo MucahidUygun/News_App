@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224815953452",
+    "project_id": "haber-firebase",
+    "storage_bucket": "haber-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224815953452:android:5465bc4a5525af97d0c389",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224815953452-2mogts9kt2jojg9ggjnp9ndim403jqjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news_app",
+            "certificate_hash": "3275b96ccf57d7f55cc25467595521e072010cf3"
+          }
+        },
+        {
+          "client_id": "224815953452-1pctvcoqbees7ovpi7ho4ip4g72pipcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawj2HT1pvqtgmPwXI3pBwA1C0ffe3lgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224815953452-1pctvcoqbees7ovpi7ho4ip4g72pipcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
